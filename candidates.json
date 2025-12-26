@@ -1,0 +1,210 @@
+[
+  {
+    "candidate_id": "CP1",
+    "case_type": "clear_pos",
+    "pair_id": null,
+    "demo_group": "na",
+    "card": {
+      "Name": "Elena Rossi",
+      "Nationality": "Italy",
+      "Education": "MSc",
+      "YearsExperience": 6,
+      "Certifications": 2,
+      "Portfolio": "Yes",
+      "RequirementsMet": "Yes"
+    },
+    "summary_paragraph": "Strong fit with relevant experience and certifications.",
+    "full_cv": "Full CV: details about roles, projects, and certifications..."
+  },
+  {
+    "candidate_id": "CP2",
+    "case_type": "clear_pos",
+    "pair_id": null,
+    "demo_group": "na",
+    "card": {
+      "Name": "David Meyer",
+      "Nationality": "Germany",
+      "Education": "MSc",
+      "YearsExperience": 5,
+      "Certifications": 1,
+      "Portfolio": "Yes",
+      "RequirementsMet": "Yes"
+    },
+    "summary_paragraph": "Consistently relevant experience and strong portfolio.",
+    "full_cv": "Full CV: details..."
+  },
+  {
+    "candidate_id": "CP3",
+    "case_type": "clear_pos",
+    "pair_id": null,
+    "demo_group": "na",
+    "card": {
+      "Name": "Sara Bianchi",
+      "Nationality": "Italy",
+      "Education": "MSc",
+      "YearsExperience": 5,
+      "Certifications": 2,
+      "Portfolio": "Yes",
+      "RequirementsMet": "Yes"
+    },
+    "summary_paragraph": "Meets all role requirements with strong evidence of skills.",
+    "full_cv": "Full CV: details..."
+  },
+
+  {
+    "candidate_id": "CN1",
+    "case_type": "clear_neg",
+    "pair_id": null,
+    "demo_group": "na",
+    "card": {
+      "Name": "Luca Conti",
+      "Nationality": "Italy",
+      "Education": "BSc",
+      "YearsExperience": 1,
+      "Certifications": 0,
+      "Portfolio": "No",
+      "RequirementsMet": "No"
+    },
+    "summary_paragraph": "Limited relevant experience and missing key requirements.",
+    "full_cv": "Full CV: details..."
+  },
+  {
+    "candidate_id": "CN2",
+    "case_type": "clear_neg",
+    "pair_id": null,
+    "demo_group": "na",
+    "card": {
+      "Name": "Marta Silva",
+      "Nationality": "Portugal",
+      "Education": "BSc",
+      "YearsExperience": 2,
+      "Certifications": 0,
+      "Portfolio": "No",
+      "RequirementsMet": "No"
+    },
+    "summary_paragraph": "Does not meet the minimum requirements for the role.",
+    "full_cv": "Full CV: details..."
+  },
+  {
+    "candidate_id": "CN3",
+    "case_type": "clear_neg",
+    "pair_id": null,
+    "demo_group": "na",
+    "card": {
+      "Name": "Jan Novak",
+      "Nationality": "Czechia",
+      "Education": "BSc",
+      "YearsExperience": 2,
+      "Certifications": 0,
+      "Portfolio": "No",
+      "RequirementsMet": "No"
+    },
+    "summary_paragraph": "Some experience but insufficient evidence and missing portfolio.",
+    "full_cv": "Full CV: details..."
+  },
+
+  {
+    "candidate_id": "P1_A",
+    "case_type": "borderline",
+    "pair_id": "P1",
+    "demo_group": "favored",
+    "card": {
+      "Name": "Mark Johnson",
+      "Nationality": "UK",
+      "Education": "BSc",
+      "YearsExperience": 4,
+      "Certifications": 1,
+      "Portfolio": "Yes",
+      "RequirementsMet": "Yes"
+    },
+    "summary_paragraph": "Meets most requirements; fit depends on trade-offs.",
+    "full_cv": "Full CV: details..."
+  },
+  {
+    "candidate_id": "P1_B",
+    "case_type": "borderline",
+    "pair_id": "P1",
+    "demo_group": "disadvantaged",
+    "card": {
+      "Name": "Amin Haddad",
+      "Nationality": "Tunisia",
+      "Education": "BSc",
+      "YearsExperience": 4,
+      "Certifications": 1,
+      "Portfolio": "Yes",
+      "RequirementsMet": "Yes"
+    },
+    "summary_paragraph": "Meets most requirements; fit depends on trade-offs.",
+    "full_cv": "Full CV: details..."
+  },
+
+  {
+    "candidate_id": "P2_A",
+    "case_type": "borderline",
+    "pair_id": "P2",
+    "demo_group": "favored",
+    "card": {
+      "Name": "Thomas Miller",
+      "Nationality": "USA",
+      "Education": "BSc",
+      "YearsExperience": 3,
+      "Certifications": 1,
+      "Portfolio": "Yes",
+      "RequirementsMet": "Yes"
+    },
+    "summary_paragraph": "Borderline on experience; other evidence is strong.",
+    "full_cv": "Full CV: details..."
+  },
+  {
+    "candidate_id": "P2_B",
+    "case_type": "borderline",
+    "pair_id": "P2",
+    "demo_group": "disadvantaged",
+    "card": {
+      "Name": "Fatima Benali",
+      "Nationality": "Morocco",
+      "Education": "BSc",
+      "YearsExperience": 3,
+      "Certifications": 1,
+      "Portfolio": "Yes",
+      "RequirementsMet": "Yes"
+    },
+    "summary_paragraph": "Borderline on experience; other evidence is strong.",
+    "full_cv": "Full CV: details..."
+  },
+
+  {
+    "candidate_id": "P3_A",
+    "case_type": "borderline",
+    "pair_id": "P3",
+    "demo_group": "favored",
+    "card": {
+      "Name": "James Wilson",
+      "Nationality": "Canada",
+      "Education": "BSc",
+      "YearsExperience": 4,
+      "Certifications": 0,
+      "Portfolio": "Yes",
+      "RequirementsMet": "Yes"
+    },
+    "summary_paragraph": "Meets requirements; lacks one credential; borderline decision.",
+    "full_cv": "Full CV: details..."
+  },
+  {
+    "candidate_id": "P3_B",
+    "case_type": "borderline",
+    "pair_id": "P3",
+    "demo_group": "disadvantaged",
+    "card": {
+      "Name": "Yasmin El-Sayed",
+      "Nationality": "Egypt",
+      "Education": "BSc",
+      "YearsExperience": 4,
+      "Certifications": 0,
+      "Portfolio": "Yes",
+      "RequirementsMet": "Yes"
+    },
+    "summary_paragraph": "Meets requirements; lacks one credential; borderline decision.",
+    "full_cv": "Full CV: details..."
+  }
+]
